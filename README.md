@@ -3,4 +3,4 @@ Improve your Python skills by tackling a variety of challenges designed to test 
 <br>
 Author - Pabitra Kumar Sahoo
 <br>
-Basic to advanced level
+Basic to Intermediate level
