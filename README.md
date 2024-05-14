@@ -8,7 +8,6 @@ Basic to Intermediate level
 <h3>INTRODUCTION TO PYTHON</h3>
 <p>Get acquainted with Python and set up the development 
 environment.</p>
-<br>
 Here the questions you can practice
 <br>
 1. Write a Python program to calculate the area of a rectangle given its length and width.
